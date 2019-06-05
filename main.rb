@@ -51,3 +51,5 @@ hash['score'] # 100
 # To know 
 
 #Instance variable
+
+#block variable exists only in the block that it is created
